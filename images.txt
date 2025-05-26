@@ -1,1 +1,2 @@
 mysql
+openjdk:11.0-jre-buster
